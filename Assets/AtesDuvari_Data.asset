@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c405c00e90d50a74b9adfd77fdd24b52, type: 3}
+  m_Name: AtesDuvari_Data
+  m_EditorClassIdentifier: Assembly-CSharp::CardData
+  kartAdi: 
+  aciklama: 
+  kartGorseli: {fileID: 21300000, guid: 1de94d1e7283f104d989d5ed4aacb0c3, type: 3}
+  sinifKisitlamasi: 0
+  kategori: 0
+  apBedeli: 0
+  hasar: 0
+  kalkan: 0
+  menzil: 0
+  stunMiktari: 0
+  apSiler: 0
+  apCalar: 0
+  yansiticiKalkanMi: 0
+  katmanliKalkanMi: 0
+  manaKalkaniMi: 0
+  zeminEtkisiBrakirMi: 0
+  zeminTipi: 0
+  zeminEtkiSuresi: 0
+  rakibiIsaretlerMi: 0
+  rakibiKorEderMi: 0
+  havalanmaSaglarMi: 0
+  sonHamleyseEkstraHasar: 0
+  kartTipi: 0
